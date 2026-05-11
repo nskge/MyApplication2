@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036147129183",
+    "project_id": "indianapp-8f8e7",
+    "storage_bucket": "indianapp-8f8e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036147129183:android:39977836e6699bdc2954ea",
+        "android_client_info": {
+          "package_name": "br.unisanta.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036147129183-3m51199q2gtbqdl2hj1b6ke9q2jthbet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unisanta.myapplication",
+            "certificate_hash": "71d4ed916b296bb31cebb6aa6cba28193dbf5cb7"
+          }
+        },
+        {
+          "client_id": "1036147129183-k4hsdg42hds61qso88kd86cm6bnr0jti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-V4SRwsyN5ipeOPvhZX8p_W60lArAQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036147129183-k4hsdg42hds61qso88kd86cm6bnr0jti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
